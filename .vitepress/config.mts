@@ -11,8 +11,8 @@ export default defineConfig({
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
         ['meta', { property: 'og:site_name', content: 'EasyCut' }],
         ['meta', { property: 'og:type', content: 'website' }],
-        ['meta', { property: 'og:url', content: 'https://www.easycutnesting.it/' }],
-        ['meta', { property: 'og:image', content: 'https://www.easycutnesting.it/easycut-og.jpg' }],
+        ['meta', { property: 'og:url', content: 'https://easycutnesting.vercel.app/' }],
+        ['meta', { property: 'og:image', content: 'https://easycutnesting.vercel.app/easycut-og.jpg' }],
         // Google Tag Manager
         [
             'script',
@@ -25,7 +25,7 @@ export default defineConfig({
         ],
     ],
     sitemap: {
-        hostname: 'https://www.easycutnesting.it/',
+        hostname: 'https://easycutnesting.vercel.app/',
     },
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config

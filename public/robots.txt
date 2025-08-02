@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /guida/
 Disallow: /changelog
 Allow: /guida/introduzione/benvenuti
-sitemap: https://www.easycutnesting.it/sitemap.xml
+sitemap: https://easycutnesting.vercel.app/sitemap.xml
