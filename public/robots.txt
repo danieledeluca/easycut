@@ -1,5 +1,9 @@
 User-agent: *
+
 Disallow: /guida/
 Disallow: /changelog
+Disallow: /privacy-policy
+Disallow: /cookie-policy
+
 Allow: /guida/introduzione/benvenuti
 sitemap: https://easycutnesting.vercel.app/sitemap.xml
