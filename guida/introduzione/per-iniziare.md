@@ -8,7 +8,7 @@ Assicurati di rispettare i [requisiti di sistema](/guida/introduzione/requisiti-
 2. Estrai l’archivio ZIP in una cartella sul tuo computer
 3. Doppio click sul file **EasyCutDownload [versione].exe** per eseguire l'installazione
 4. Al termine dell'installazione si aprirà il Form di verifica delle presenza di AutoCAD, se tutto va a buon fine apparirà la seguente scritta
-   > EasyCut rel. [versione] installato e configurato correttamente
+   > AcadDoc.lsp modificato | EasyCut ver [versione] installato e configurato correttamente
 
 ## Caricare EasyCut in AutoCAD
 
