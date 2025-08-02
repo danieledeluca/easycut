@@ -35,14 +35,14 @@
 /* Cookie table */
 .cky-cookie-audit-table th,
 .cky-cookie-audit-table td {
-    padding: 8px 16px;
-    font-size: 14px;
-    color: var(--vp-c-text-2);
-    background-color: var(--vp-c-bg-soft);
-    border: 1px solid var(--vp-c-divider);
+    padding: 8px 16px !important;
+    font-size: 14px !important;
+    color: var(--vp-c-text-2) !important;
+    background-color: var(--vp-c-bg-soft) !important;
+    border: 1px solid var(--vp-c-divider) !important;
 }
 
 .cky-cookie-audit-table tr:nth-child(2n + 1) td,
 .cky-cookie-audit-table tr:nth-child(2n) td {
-    background: transparent;
+    background: transparent !important;
 }
