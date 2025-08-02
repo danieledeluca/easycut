@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: EasyCut
-  text: Software gratuito per l’ottimizzazione del taglio lamiere e barre
+  text: Software gratuito per l'ottimizzazione del taglio lamiere e barre
   tagline: Riduci sprechi e migliora l'efficienza con un software nesting preciso, gratuito e basato su AutoCAD
   actions:
     - theme: brand

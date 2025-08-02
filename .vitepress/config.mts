@@ -3,16 +3,34 @@ import { DefaultTheme, defineConfig, HeadConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: 'EasyCut',
-    description:
-        "EasyCut è il software gratuito per l'ottimizzazione automatica del taglio delle lamiere. Il suo algoritmo permette un risparmio significativo nei costi di produzione.",
+    description: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
     cleanUrls: true,
     metaChunk: true,
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
-        ['meta', { property: 'og:site_name', content: 'EasyCut' }],
-        ['meta', { property: 'og:type', content: 'website' }],
+        // Facebook Meta Tags
         ['meta', { property: 'og:url', content: 'https://easycutnesting.vercel.app/' }],
+        ['meta', { property: 'og:type', content: 'website' }],
+        [
+            'meta',
+            {
+                property: 'og:description',
+                content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
+            },
+        ],
         ['meta', { property: 'og:image', content: 'https://easycutnesting.vercel.app/easycut-og.jpg' }],
+        // Twitter Meta Tags
+        ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
+        ['meta', { property: 'twitter:domain', content: 'easycutnesting.vercel.app' }],
+        ['meta', { property: 'twitter:url', content: 'https://easycutnesting.vercel.app/' }],
+        [
+            'meta',
+            {
+                property: 'twitter:description',
+                content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
+            },
+        ],
+        ['meta', { property: 'twitter:image', content: 'https://easycutnesting.vercel.app/easycut-og.jpg' }],
         // Google Tag Manager
         [
             'script',
@@ -53,7 +71,10 @@ export default defineConfig({
     transformPageData: (pageData, ctx) => {
         const title = `${pageData.title || ctx.siteConfig.site.title} | ${pageData.description || ctx.siteConfig.site.description}`;
 
-        ((pageData.frontmatter.head ??= []) as HeadConfig[]).push(['meta', { property: 'og:title', content: title }]);
+        ((pageData.frontmatter.head ??= []) as HeadConfig[]).push(
+            ['meta', { property: 'og:title', content: title }],
+            ['meta', { property: 'twitter:title', content: title }],
+        );
     },
 });
 
