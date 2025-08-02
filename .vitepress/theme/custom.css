@@ -7,6 +7,7 @@
     --vp-button-brand-bg: var(--vp-c-brand-1);
     --vp-button-brand-text: var(--vp-c-black);
     --vp-button-brand-hover-text: var(--vp-c-black);
+    --vp-button-brand-active-text: var(--vp-c-black);
 
     /* Badge */
     --vp-badge-tip-text: var(--vp-c-success-1);
