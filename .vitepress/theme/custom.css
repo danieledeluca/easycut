@@ -34,7 +34,7 @@
 
 /* Cookie */
 .cky-preference-header .cky-btn-close img {
-    margin-inline: auto;
+    margin-inline: auto !important;
 }
 
 .cky-cookie-audit-table th,
