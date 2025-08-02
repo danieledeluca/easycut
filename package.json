@@ -1,0 +1,20 @@
+{
+  "name": "easycut",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vitepress build .",
+    "docs:dev": "vitepress dev .",
+    "docs:preview": "vitepress preview ."
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-packagejson": "^2.5.19",
+    "vitepress": "^1.6.3"
+  }
+}

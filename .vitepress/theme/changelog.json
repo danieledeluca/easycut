@@ -1,0 +1,46 @@
+{
+  "3.3.2": {
+    "date": "11/12/2022",
+    "changes": [
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Aggiunto l'inserimento manuale di un contorno nella lamiera.",
+        "link": "/guida/menu-generale/utensili/inserisci-contorno"
+      },
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Aggiunta una utility che permette rapidamente lo spostamento, la specchiatura, la rotazione, l'inserimento, la copiatura del contorno all'interno della lamiera.",
+        "link": "/guida/menu-generale/utensili/tetrix"
+      },
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Definisce una serie di contorni all'interno della lamiera.",
+        "link": "/guida/menu-generale/utensili/serie"
+      },
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Definisce una deformazione del contorno.",
+        "link": "/guida/menu-generale/utensili/flessione"
+      },
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Implementato PartProgramm di lamiere e contorni in formato ISO / ESSI per postprocessori ESAB / FRO / KOIKE / SOITAAB."
+      },
+      {
+        "type": "warning",
+        "label": "Modificato",
+        "description": "Aggiornato modulo import dxf file, inserito nuova tipologia punto di attacco su contorno."
+      },
+      {
+        "type": "tip",
+        "label": "Nuovo",
+        "description": "Aggiunto versione stabile modulo <strong>EasyCut NestingBars</strong>. Questa estensione consente in maniera automatica e veloce la creazione e gestione dell’ottimizzazione di barre."
+      }
+    ]
+  }
+}

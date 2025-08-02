@@ -1,0 +1,12 @@
+{
+  // Enable format on save
+  "editor.formatOnSave": true,
+
+  // Auto fix
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit",
+    "source.sortImports": "always"
+  },
+  "cSpell.language": "en,it"
+}
