@@ -51,7 +51,7 @@ export default defineConfig({
         nav: nav(),
         footer: {
             message: 'Contattami: <a href="mailto:info@easycutnesting.it">info@easycutnesting.it</a>',
-            copyright: `© ${new Date().getFullYear()} - EasyCut`,
+            copyright: `© ${new Date().getFullYear()} - EasyCut | <a href="/privacy-policy">Privacy Policy</a>`,
         },
         sidebar: sidebar(),
         outline: {
