@@ -32,7 +32,11 @@
     translate: 0 calc(12px - 50%);
 }
 
-/* Cookie table */
+/* Cookie */
+.cky-preference-header .cky-btn-close img {
+    margin-inline: auto;
+}
+
 .cky-cookie-audit-table th,
 .cky-cookie-audit-table td {
     padding: 8px 16px !important;
