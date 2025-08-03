@@ -25,4 +25,4 @@ Definisce il colore della traccia della torcia in fase di simulazione [colori ta
 
 Definisce il valore di attesa in secondi in funzione del tipo di simulazione.
 
-![Setup Sequenza e Simulazione](/public/setup/menu-setup/setup-sequenza-e-simulazione.png)
+![Setup Sequenza e Simulazione](/setup/menu-setup/setup-sequenza-e-simulazione.png)

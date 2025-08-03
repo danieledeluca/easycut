@@ -2,7 +2,7 @@
 
 Il menu **Attacchi** gestisce la geometria e la partenza del taglio del contorno.
 
-![Attacchi](/public/attacchi/attacchi.png)
+![Attacchi](/attacchi/attacchi.png)
 
 Il programma gestisce in maniera automatica o manuale due tipologie di attacco:
 
@@ -12,4 +12,4 @@ Il programma gestisce in maniera automatica o manuale due tipologie di attacco:
 L'attacco rettilineo viene inserito se lo spigolo di contatto è una retta.<br />
 L'attacco tangente può essere inserito se lo spigolo di contatto è una circonferenza, arco o retta.
 
-![Attacchi](/public/attacchi/attacchi-1.png)
+![Attacchi](/attacchi/attacchi-1.png)

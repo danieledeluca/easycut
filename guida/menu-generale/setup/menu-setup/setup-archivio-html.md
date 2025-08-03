@@ -7,4 +7,4 @@ Possono essere modificate solamente quelle in chiaro.
 
 definisce la directory degli scripts Html.
 
-![Setup Archivio HTML](/public/setup/menu-setup/setup-archivio-html.png)
+![Setup Archivio HTML](/setup/menu-setup/setup-archivio-html.png)

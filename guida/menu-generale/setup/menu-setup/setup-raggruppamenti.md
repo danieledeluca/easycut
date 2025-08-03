@@ -30,4 +30,4 @@ Nome oggetto attacco in uscita.
 
 Nome oggetto simulazione.
 
-![Setup Raggruppamenti](/public/setup/menu-setup/setup-raggruppamenti.png)
+![Setup Raggruppamenti](/setup/menu-setup/setup-raggruppamenti.png)

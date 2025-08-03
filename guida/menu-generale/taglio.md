@@ -2,4 +2,4 @@
 
 Il menu **Taglio** gestisce l'utilizzo della lamiera.
 
-![Taglio](/public/taglio/taglio.png)
+![Taglio](/taglio/taglio.png)

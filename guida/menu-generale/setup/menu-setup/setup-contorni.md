@@ -34,4 +34,4 @@ Definisce il colore del contorno interno di forma ellittica [colori tabella Auto
 
 Definisce il valore della freccia massima nella discretizzazione degli archi o cerchi.
 
-![Setup Contorni](/public/setup/menu-setup/setup-contorni.png)
+![Setup Contorni](/setup/menu-setup/setup-contorni.png)

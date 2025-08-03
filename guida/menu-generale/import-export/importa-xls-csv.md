@@ -2,7 +2,7 @@
 
 Importa i file in formato CSV / XLS / XLSX.
 
-![Importa Xls - Csv](/public/import-export/importa-xls-csv.png)
+![Importa Xls - Csv](/import-export/importa-xls-csv.png)
 
 ## Importa Xls / Xlsx
 
@@ -12,7 +12,7 @@ Importa i file in formato CSV / XLS / XLSX.
 4. Importare il file
 
 <video controls>
-    <source src="/public/import-export/importa-xls-xlsx.mp4" type="video/mp4">
+    <source src="/import-export/importa-xls-xlsx.mp4" type="video/mp4">
 </video>
 
 ## Importa Csv

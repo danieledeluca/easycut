@@ -2,7 +2,7 @@
 
 Importa i file DXF.
 
-![Importa Dxf e aggiorna cartiglio](/public/import-export/importa-dxf-e-aggiorna-cartiglio.png)
+![Importa Dxf e aggiorna cartiglio](/import-export/importa-dxf-e-aggiorna-cartiglio.png)
 
 ## Importa DXF
 
@@ -24,7 +24,7 @@ Se sono rispettate queste caratteristiche la procedura inserirà il contorno ese
 5. Verranno mantenuti i testi
 
 <video controls>
-    <source src="/public/import-export/importa-dxf.mp4" type="video/mp4">
+    <source src="/import-export/importa-dxf.mp4" type="video/mp4">
 </video>
 
 ## Aggiorna cartiglio DXF
@@ -33,5 +33,5 @@ Terminato l'import del file Dxf, il contorno verrà inserito in un cartiglio tem
 Se l'utente riterrà congruo il contorno rappresentato, mediante la procedura di aggiornamento, verrà inserito il cartiglio definitivo.
 
 <video controls>
-    <source src="/public/import-export/aggiorna-cartiglio-dxf.mp4" type="video/mp4">
+    <source src="/import-export/aggiorna-cartiglio-dxf.mp4" type="video/mp4">
 </video>

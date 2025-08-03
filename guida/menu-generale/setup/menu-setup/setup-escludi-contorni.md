@@ -13,4 +13,4 @@ Per attivare l'impostazione spuntare la casella.
 Possono essere esclusi tutti i contorni interni di forma irregolare da escludere dal taglio.<br />
 Per attivare l'impostazione spuntare la casella.
 
-![Setup Escludi Contorni](/public/setup/menu-setup/setup-escludi-contorni.png)
+![Setup Escludi Contorni](/setup/menu-setup/setup-escludi-contorni.png)

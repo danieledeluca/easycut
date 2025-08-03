@@ -12,4 +12,4 @@ Per attivare l'impostazione spuntare la casella
 
 Definisce la velocità di taglio nel caso non venga trovata nella tabella.
 
-![Setup Velocità](/public/setup/menu-setup/setup-velocita.png)
+![Setup Velocità](/setup/menu-setup/setup-velocita.png)

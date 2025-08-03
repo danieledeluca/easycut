@@ -28,4 +28,4 @@ Altezza testo per le info dinamiche.
 
 Nome del font per lo stile EasyCut.
 
-![Setup Testo](/public/setup/menu-setup/setup-testo.png)
+![Setup Testo](/setup/menu-setup/setup-testo.png)

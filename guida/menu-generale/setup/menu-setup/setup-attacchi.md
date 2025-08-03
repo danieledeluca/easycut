@@ -58,4 +58,4 @@ Definisce il colore dell'attacco in entrata [colori tabella AutoCAD](https://sup
 
 Definisce il colore dell'attacco in uscita [colori tabella AutoCAD](https://support.ptc.com/help/creo/creo_pma/r11.0/italian/index.html#page/data_exchange/interface/Basic_AutoCAD_System_Colors.html).
 
-![Setup Attacchi](/public/setup/menu-setup/setup-attacchi.png)
+![Setup Attacchi](/setup/menu-setup/setup-attacchi.png)

@@ -2,4 +2,4 @@
 
 In questo menu vengono visualizzate le variabili utilizzate del programma EasyCut.
 
-![Visualizza Variabili](/public/setup/visualizza-variabili.png)
+![Visualizza Variabili](/setup/visualizza-variabili.png)

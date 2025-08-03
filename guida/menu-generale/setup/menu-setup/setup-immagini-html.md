@@ -22,4 +22,4 @@ Lista stili di stampa.
 | foglio    | UserDefinedRaster (1200.00 x 1600.00Pixel) |
 | stile     | Monochrome.ctp                             |
 
-![Setup Immagini HTML](/public/setup/menu-setup/setup-immagini-html.png)
+![Setup Immagini HTML](/setup/menu-setup/setup-immagini-html.png)

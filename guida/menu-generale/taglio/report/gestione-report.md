@@ -3,8 +3,8 @@
 Viene generato un report completo della lamiera.<br />
 L'utilizzo è rivolto alla produzione.
 
-![Gestione report](/public/taglio/report/gestione-report.png)
+![Gestione report](/taglio/report/gestione-report.png)
 
 <video controls>
-    <source src="/public/taglio/report/gestione-report.mp4" type="video/mp4">
+    <source src="/taglio/report/gestione-report.mp4" type="video/mp4">
 </video>

@@ -29,4 +29,4 @@ non modifica il browser definito dall'utente.
 
 l'utente può inserire un percorso alternativo per utilizzare un browser differente dal default.
 
-![Setup Browser](/public/setup/menu-setup/setup-browser.png)
+![Setup Browser](/setup/menu-setup/setup-browser.png)

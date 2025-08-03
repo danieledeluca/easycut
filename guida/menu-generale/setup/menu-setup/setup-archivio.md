@@ -19,4 +19,4 @@ definisce la directory dove sono archiviati i file Html di taglio.
 
 definisce la directory dove sono archiviati i file import ed export nesting.
 
-![Setup Archivio](/public/setup/menu-setup/setup-archivio.png)
+![Setup Archivio](/setup/menu-setup/setup-archivio.png)

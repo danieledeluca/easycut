@@ -93,4 +93,4 @@ Definisce la tipologia della freccia di puntamento [valori AutoCAD da 1 a 20].
 
 Definisce la dimensione della freccia di puntamento.
 
-![Setup Leader](/public/setup/menu-setup/setup-leader.png)
+![Setup Leader](/setup/menu-setup/setup-leader.png)

@@ -2,10 +2,10 @@
 
 Selezionando il contorno di una lamiera restituisce le proprietà del nesting.
 
-![Report utilizzo lamiera](/public/taglio/report/report-utilizzo-lamiera.png)
+![Report utilizzo lamiera](/taglio/report/report-utilizzo-lamiera.png)
 
 <video controls>
-    <source src="/public/taglio/report/report-utilizzo-lamiera.mp4" type="video/mp4">
+    <source src="/taglio/report/report-utilizzo-lamiera.mp4" type="video/mp4">
 </video>
 
 ## Proprietà disponibili
@@ -25,4 +25,4 @@ Selezionando il contorno di una lamiera restituisce le proprietà del nesting.
 13. Sfrido [%]
 14. Qualità lamiera
 
-![Utilizzo lamiera](/public/taglio/report/utilizzo-lamiera.png)
+![Utilizzo lamiera](/taglio/report/utilizzo-lamiera.png)

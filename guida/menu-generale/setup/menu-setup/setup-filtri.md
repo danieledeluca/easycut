@@ -11,4 +11,4 @@ Non possono essere modificati.
 
 [ad esclusivo uso programmazione AutoCAD].
 
-![Setup Filtri](/public/setup/menu-setup/setup-filtri.png)
+![Setup Filtri](/setup/menu-setup/setup-filtri.png)

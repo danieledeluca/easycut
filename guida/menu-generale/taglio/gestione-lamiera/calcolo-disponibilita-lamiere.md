@@ -2,7 +2,7 @@
 
 Definisce ed eventualmente calcola la disponibilità delle lamiere necessarie per il nesting.
 
-![Calcolo disponibilità lamiere](/public/taglio/gestione-lamiera/calcolo-disponibilita-lamiere.png)
+![Calcolo disponibilità lamiere](/taglio/gestione-lamiera/calcolo-disponibilita-lamiere.png)
 
 ## La procedura prevede le seguenti fasi
 
@@ -15,7 +15,7 @@ Selezione lamiere vuote per il nesting.
 La procedura calcola la superficie totale dei pezzi selezionati considerando il rettangolo minimo che li contiene e restituisce il messaggio di verifica (Lamiere sufficienti o insufficienti per il nesting).
 
 <video controls>
-    <source src="/public/taglio/gestione-lamiera/calcolo-disponibilita-lamiere-a.mp4" type="video/mp4">
+    <source src="/taglio/gestione-lamiera/calcolo-disponibilita-lamiere-a.mp4" type="video/mp4">
 </video>
 
 ### Opzione B
@@ -32,14 +32,14 @@ Questa verifica deve essere seguita dal nesting lamiera (Expert o Rettangolo).
 :::
 
 <video controls>
-    <source src="/public/taglio/gestione-lamiera/calcolo-disponibilita-lamiere-b.mp4" type="video/mp4">
+    <source src="/taglio/gestione-lamiera/calcolo-disponibilita-lamiere-b.mp4" type="video/mp4">
 </video>
 
 ## Guida menu "Calcolo utilizzo lamiera"
 
 La procedura guida l'utente alla creazione di uno stock lamiere in funzione della superficie realizzare.
 
-![Calcolo utilizzo lamiere](/public/taglio/gestione-lamiera/calcolo-utilizzo-lamiere.png)
+![Calcolo utilizzo lamiere](/taglio/gestione-lamiera/calcolo-utilizzo-lamiere.png)
 
 Il menu si divide in due parti.
 

@@ -10,16 +10,16 @@ Ricerca i pezzi sulle lamiere per mezzo di filtri di selezione.
 | Phase  | Fase            |
 | Name   | Nome contorno   |
 
-![Cerca Pezzi su Lamiere](/public/cerca/cerca-prezzi-su-lamiere.png)
+![Cerca Pezzi su Lamiere](/cerca/cerca-prezzi-su-lamiere.png)
 
 ## Cerca pezzi su lamiera (parte 1)
 
 <video controls>
-    <source src="/public/cerca/cerca-prezzi-su-lamiere-1.mp4" type="video/mp4">
+    <source src="/cerca/cerca-prezzi-su-lamiere-1.mp4" type="video/mp4">
 </video>
 
 ## Cerca pezzi su lamiera (parte 2)
 
 <video controls>
-    <source src="/public/cerca/cerca-prezzi-su-lamiere-2.mp4" type="video/mp4">
+    <source src="/cerca/cerca-prezzi-su-lamiere-2.mp4" type="video/mp4">
 </video>

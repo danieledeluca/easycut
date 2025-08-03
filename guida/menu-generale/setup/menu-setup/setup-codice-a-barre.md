@@ -27,4 +27,4 @@ con un carattere iniziale, intermedio e finale.
 | 15    | `< TEMPO TAGLIO >`    |
 | 16    | `< ULTIMA MODIFICA >` |
 
-![Setup Codice a Barre](/public/setup/menu-setup/setup-codice-a-barre.png)
+![Setup Codice a Barre](/setup/menu-setup/setup-codice-a-barre.png)

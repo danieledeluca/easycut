@@ -4,12 +4,12 @@ Definisce un attacco manuale.<br />
 I valori geometrici dell'attacco (colore, lunghezza ecc.) sono definiti nel menu [Setup Attacchi](/guida/menu-generale/setup/menu-setup/setup-attacchi).<br />
 Se si vogliono escludere gli attacchi da contorni interni vedi [Setup Escludi Contorni](/guida/menu-generale/setup/menu-setup/setup-escludi-contorni).
 
-![Attacco manuale](/public/attacchi/attacco-manuale.png)
+![Attacco manuale](/attacchi/attacco-manuale.png)
 
 La procedura definisce manualmente il punto di attacco.
 
 <video controls>
-    <source src="/public/attacchi/attacco-manuale.mp4" type="video/mp4">
+    <source src="/attacchi/attacco-manuale.mp4" type="video/mp4">
 </video>
 
 ## Tipologie di attacco

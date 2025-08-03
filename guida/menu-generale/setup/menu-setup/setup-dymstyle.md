@@ -22,4 +22,4 @@ Definisce l'altezza del testo di quota.
 
 Definisce il nome dello stile della quota.
 
-![Setup DymStyle](/public/setup/menu-setup/setup-dymstyle.png)
+![Setup DymStyle](/setup/menu-setup/setup-dymstyle.png)
