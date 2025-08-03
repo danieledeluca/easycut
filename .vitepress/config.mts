@@ -9,6 +9,7 @@ export default defineConfig({
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
         // Facebook Meta Tags
+        ['meta', { property: 'og:site_name', content: 'EasyCut' }],
         ['meta', { property: 'og:url', content: 'https://easycutnesting.vercel.app/' }],
         ['meta', { property: 'og:type', content: 'website' }],
         [
