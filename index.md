@@ -22,19 +22,19 @@ features:
   - icon: 🪚
     title: Ottimizzazione del taglio
     details: Riduce gli sprechi di materiale grazie a un avanzato algoritmo di nesting per il taglio lamiere automatico e preciso.
-    link: /guida/introduzione/benvenuti#🪚-ottimizzazione-del-taglio
+    link: /guida/introduzione/cose-easycut#ottimizzazione-del-taglio
   - icon: 📐
     title: Compatibilità con AutoCAD
     details: Crea e modifica file DWG nativi integrandosi perfettamente con AutoCAD, ideale per il taglio industriale.
-    link: /guida/introduzione/benvenuti#📐-compatibilita-con-autocad
+    link: /guida/introduzione/cose-easycut#compatibilita-con-autocad
   - icon: 🧩
     title: Gestione automatica dei contorni
     details: Rileva automaticamente contorni e sagome per una lavorazione più efficiente e senza errori.
-    link: /guida/introduzione/benvenuti#🧩-gestione-automatica-dei-contorni
+    link: /guida/introduzione/cose-easycut#gestione-automatica-dei-contorni
   - icon: 🖱️
     title: Interfaccia semplice e intuitiva
     details: Facile da usare anche senza esperienza CAD, velocizza le operazioni di nesting e taglio.
-    link: /guida/introduzione/benvenuti#🖱️-interfaccia-semplice-e-intuitiva
+    link: /guida/introduzione/cose-easycut#interfaccia-semplice-e-intuitiva
 ---
 
 <script setup lang="ts">
