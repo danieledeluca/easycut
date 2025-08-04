@@ -12,8 +12,8 @@ hero:
       link: /EasyCutDownload 3.3.3 2022.12.29.7z
       target: _blank
     - theme: alt
-      text: Guida completa
-      link: /guida/introduzione/benvenuti.md
+      text: Cos'è Easycut?
+      link: /guida/introduzione/cose-easycut
   image:
     src: /logo.png
     alt: EasyCut

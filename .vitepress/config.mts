@@ -82,7 +82,7 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
     return [
         { text: 'Home', link: '/' },
-        { text: 'Guida', link: '/guida/introduzione/benvenuti.md', activeMatch: '/guida/' },
+        { text: 'Guida', link: '/guida/introduzione/cose-easycut', activeMatch: '/guida/' },
         { text: 'Changelog', link: '/changelog.md' },
     ];
 }
@@ -103,8 +103,8 @@ function sidebar(): DefaultTheme.SidebarItem[] {
 function sidebarIntroduzione(): DefaultTheme.SidebarItem[] {
     return [
         {
-            text: 'Benvenuti',
-            link: '/guida/introduzione/benvenuti.md',
+            text: "Cos'è EasyCut?",
+            link: '/guida/introduzione/cose-easycut',
         },
         {
             text: 'Per iniziare',

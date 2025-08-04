@@ -1,6 +1,6 @@
-# Benvenuti in EasyCut
+# Cos'è EasyCut?
 
-EasyCut è il software gratuito per l'ottimizzazione automatica del taglio delle lamiere. Il suo algoritmo permette un risparmio significativo nei costi di produzione.
+EasyCut è un software gratuito per l'ottimizzazione automatica del taglio delle lamiere. Il suo algoritmo permette un risparmio significativo nei costi di produzione.
 
 ## 🪚 Ottimizzazione del taglio
 
