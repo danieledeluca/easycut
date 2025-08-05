@@ -33,6 +33,16 @@
 }
 
 /* Cookie */
+.cky-overlay {
+    transition: all 0.3s ease-in-out;
+}
+
+.cky-overlay.cky-hide {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+}
+
 .cky-preference-header .cky-btn-close img {
     margin-inline: auto !important;
 }
