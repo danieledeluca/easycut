@@ -6,40 +6,54 @@ next: false
 
 # Privacy Policy
 
-This Privacy Policy describes the policies of
+La presente Privacy Policy descrive le politiche di:
 
-Andrea De Luca,
-Pordenone, Italia,
+**Andrea De Luca**,<br />
+Pordenone, Italia,<br />
 info@easycutnesting.it,
 
-on the collection, use and disclosure of your information that we collect when you use our website (https://www.easycutnesting.it). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service.
+relative alla raccolta, all’uso e alla divulgazione delle informazioni che raccogliamo quando utilizzi il nostro sito web (https://www.easycutnesting.it). Accedendo o utilizzando il Servizio, acconsenti alla raccolta, all’uso e alla divulgazione delle tue informazioni secondo quanto descritto in questa Informativa sulla Privacy. Se non acconsenti, ti invitiamo a non accedere o utilizzare il Servizio.
 
-We may modify this Privacy Policy at any time without any prior notice to you and will post the revised Privacy Policy on the Service. The revised Policy will be effective 180 days from when the revised Policy is posted in the Service and your continued access or use of the Service after such time will constitute your acceptance of the revised Privacy Policy. We therefore recommend that you periodically review this page.
+Potremmo modificare questa Privacy Policy in qualsiasi momento, senza alcun preavviso. La nuova versione sarà pubblicata sul Servizio e sarà efficace dopo 180 giorni dalla pubblicazione. Il tuo utilizzo continuato del Servizio dopo tale periodo costituirà accettazione della nuova versione. Ti consigliamo quindi di controllare periodicamente questa pagina.
 
-## How We Share Your Information:
+## Come condividiamo le tue informazioni
 
-We will not transfer your personal information to any third party without seeking your consent, except in limited circumstances as described below:
+Non trasferiremo le tue informazioni personali a terze parti senza il tuo consenso, salvo nei seguenti casi limitati:
 
 - Analytics
 
-We require such third party’s to use the personal information we transfer to them only for the purpose for which it was transferred and not to retain it for longer than is required for fulfilling the said purpose.
+Richiediamo a tali terze parti di utilizzare le informazioni personali solo per lo scopo specifico per cui sono state trasferite e di non conservarle oltre il tempo necessario a tale scopo.
 
-We may also disclose your personal information for the following: (1) to comply with applicable law, regulation, court order or other legal process; (2) to enforce your agreements with us, including this Privacy Policy; or (3) to respond to claims that your use of the Service violates any third-party rights. If the Service or our company is merged or acquired with another company, your information will be one of the assets that is transferred to the new owner.
+Potremmo anche divulgare le tue informazioni personali per:
 
-## Your Rights:
+1. Conformarci alla legge, a regolamenti, ordini giudiziari o ad altri procedimenti legali
+2. Far rispettare i nostri accordi con te, inclusa questa Privacy Policy
+3. Rispondere a rivendicazioni secondo cui l’uso del Servizio da parte tua viola i diritti di terzi
 
-Depending on the law that applies, you may have a right to access and rectify or erase your personal data or receive a copy of your personal data, restrict or object to the active processing of your data, ask us to share (port) your personal information to another entity, withdraw any consent you provided to us to process your data, a right to lodge a complaint with a statutory authority and such other rights as may be relevant under applicable laws. To exercise these rights, you can write to us at info@easycutnesting.it. We will respond to your request in accordance with applicable law.
+## I tuoi diritti
 
-Do note that if you do not allow us to collect or process the required personal information or withdraw the consent to process the same for the required purposes, you may not be able to access or use the services for which your information was sought.
+In base alla legge applicabile, potresti avere il diritto di accedere, rettificare o cancellare i tuoi dati personali, riceverne una copia, limitarne o opporti al trattamento, richiederne la portabilità verso un’altra entità, revocare il consenso precedentemente dato, presentare un reclamo a un’autorità competente e altri diritti previsti dalla normativa.
+
+Per esercitare tali diritti, scrivici a info@easycutnesting.it. Risponderemo in conformità alla legge applicabile.
+
+Ti informiamo che, qualora tu non ci autorizzassi a raccogliere o trattare i dati richiesti o revocassi il consenso necessario, potresti non poter accedere o usufruire dei servizi per cui i dati erano necessari.
 
 ## Cookies Etc.
 
-To learn more about how we use these and your choices in relation to these tracking technologies, please refer to our [Cookie Policy](/cookie-policy).
+Per maggiori informazioni sull’utilizzo dei cookie e sulle tue scelte in merito, ti invitiamo a consultare la nostra [Cookie Policy](/cookie-policy).
 
-## Security:
+## Sicurezza
 
-The security of your information is important to us and we will use reasonable security measures to prevent the loss, misuse or unauthorized alteration of your information under our control. However, given the inherent risks, we cannot guarantee absolute security and consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+La sicurezza dei tuoi dati è importante per noi. Utilizziamo misure ragionevoli per prevenire la perdita, l’uso improprio o la modifica non autorizzata delle informazioni sotto il nostro controllo.
 
-## Grievance / Data Protection Officer:
+Tuttavia, a causa dei rischi intrinseci di Internet, non possiamo garantire la sicurezza assoluta dei dati trasmessi, che avviene quindi a tuo rischio.
 
-If you have any queries or concerns about the processing of your information that is available with us, you may email our Grievance Officer at Andrea De Luca, Pordenone, Italia, info@easycutnesting.it. We will address your concerns in accordance with applicable law.
+## Reclami / Responsabile della protezione dei dati
+
+Per qualsiasi domanda o dubbio riguardante il trattamento dei tuoi dati personali, puoi contattare il nostro Responsabile alla protezione dei dati:
+
+**Andrea De Luca**,<br />
+Pordenone, Italia,<br />
+info@easycutnesting.it
+
+Affronteremo ogni tua richiesta nel rispetto della normativa applicabile.

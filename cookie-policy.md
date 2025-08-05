@@ -10,36 +10,33 @@ next: false
 
 # Cookie Policy
 
-## What are cookies?
+## Cosa sono i cookie?
 
-This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to manage the cookie settings.
+Questa Cookie Policy spiega cosa sono i cookie e come li utilizziamo, i tipi di cookie che impieghiamo, le informazioni che raccogliamo tramite i cookie, come vengono usate tali informazioni e come è possibile gestire le impostazioni relative ai cookie.
 
-Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make it more secure, provide better user experience, and understand how the website performs and to analyze what works and where it needs improvement.
+I cookie sono piccoli file di testo utilizzati per memorizzare brevi informazioni. Vengono salvati sul tuo dispositivo quando un sito web viene caricato nel tuo browser. Questi cookie ci aiutano a far funzionare correttamente il sito, a renderlo più sicuro, a offrire una migliore esperienza utente e a comprendere come il sito si comporta, analizzando cosa funziona e cosa deve essere migliorato.
 
-## How do we use cookies?
+## Come utilizziamo i cookie?
 
-As most of the online services, our website uses first-party and third-party cookies for several purposes. First-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.
+Come la maggior parte dei servizi online, il nostro sito utilizza cookie di prima parte e di terze parti per vari scopi. I cookie di prima parte sono per lo più essenziali per il corretto funzionamento del sito e non raccolgono dati personali identificabili.
 
-The third-party cookies used on our website are mainly for understanding how the website performs, how you interact with our website, keeping our services secure, providing advertisements that are relevant to you, and all in all providing you with a better and improved user experience and help speed up your future interactions with our website.
+I cookie di terze parti servono principalmente per capire come il sito viene utilizzato, come interagisci con esso, per mantenere i nostri servizi sicuri, per mostrarti pubblicità rilevanti e, in generale, per offrirti un’esperienza utente migliore e più veloce nelle interazioni future con il nostro sito.
 
-## Types of Cookies we use
+## Tipi di cookie che utilizziamo
 
 <div class="cky-audit-table-element"></div>
 
-## Manage cookie preferences
+## Gestione delle preferenze sui cookie
 
-<VPButton text="Cookie Settings" theme="brand" class="cky-banner-element" />
+<VPButton text="Impostazioni Cookie" theme="brand" class="cky-banner-element" />
 
-You can change your cookie preferences any time by clicking the above button. This will let you revisit the cookie consent banner and change your preferences or withdraw your consent right away.
+Puoi modificare le tue preferenze relative ai cookie in qualsiasi momento cliccando sul pulsante sopra. In questo modo potrai visualizzare nuovamente il banner di consenso e modificare le tue preferenze o revocare il consenso immediatamente.
 
-In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. Listed below are the links to the support documents on how to manage and delete cookies from the major web browsers.
+Inoltre, i vari browser offrono metodi diversi per bloccare o eliminare i cookie utilizzati dai siti web. Puoi modificare le impostazioni del tuo browser per bloccare o cancellare i cookie. Di seguito trovi i link alle guide di supporto dei principali browser:
 
-Chrome: https://support.google.com/accounts/answer/32050/
+- **Chrome**: https://support.google.com/accounts/answer/32050/
+- **Safari**: https://support.apple.com/en-in/guide/safari/sfri11471/mac
+- **Firefox**: https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
+- **Internet Explorer**: https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc
 
-Safari: https://support.apple.com/en-in/guide/safari/sfri11471/mac
-
-Firefox: https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US
-
-Internet Explorer: https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc
-
-If you are using any other web browser, please visit your browser’s official support documents
+Se utilizzi un altro browser, ti invitiamo a consultare la documentazione ufficiale di supporto del tuo browser.
