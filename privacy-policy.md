@@ -12,7 +12,7 @@ Andrea De Luca,
 Pordenone, Italia,
 info@easycutnesting.it,
 
-on the collection, use and disclosure of your information that we collect when you use our website (https://easycutnesting.vercel.app). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service.
+on the collection, use and disclosure of your information that we collect when you use our website (https://www.easycutnesting.it). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service.
 
 We may modify this Privacy Policy at any time without any prior notice to you and will post the revised Privacy Policy on the Service. The revised Policy will be effective 180 days from when the revised Policy is posted in the Service and your continued access or use of the Service after such time will constitute your acceptance of the revised Privacy Policy. We therefore recommend that you periodically review this page.
 

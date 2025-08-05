@@ -10,7 +10,7 @@ export default defineConfig({
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
         // Facebook Meta Tags
         ['meta', { property: 'og:site_name', content: 'EasyCut' }],
-        ['meta', { property: 'og:url', content: 'https://easycutnesting.vercel.app/' }],
+        ['meta', { property: 'og:url', content: 'https://www.easycutnesting.it/' }],
         ['meta', { property: 'og:type', content: 'website' }],
         [
             'meta',
@@ -19,11 +19,11 @@ export default defineConfig({
                 content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
             },
         ],
-        ['meta', { property: 'og:image', content: 'https://easycutnesting.vercel.app/easycut-og.jpg' }],
+        ['meta', { property: 'og:image', content: 'https://www.easycutnesting.it/easycut-og.jpg' }],
         // Twitter Meta Tags
         ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
-        ['meta', { property: 'twitter:domain', content: 'easycutnesting.vercel.app' }],
-        ['meta', { property: 'twitter:url', content: 'https://easycutnesting.vercel.app/' }],
+        ['meta', { property: 'twitter:domain', content: 'easycutnesting.it' }],
+        ['meta', { property: 'twitter:url', content: 'https://www.easycutnesting.it/' }],
         [
             'meta',
             {
@@ -31,7 +31,7 @@ export default defineConfig({
                 content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
             },
         ],
-        ['meta', { property: 'twitter:image', content: 'https://easycutnesting.vercel.app/easycut-og.jpg' }],
+        ['meta', { property: 'twitter:image', content: 'https://www.easycutnesting.it/easycut-og.jpg' }],
         // Google Tag Manager
         [
             'script',
@@ -44,7 +44,7 @@ export default defineConfig({
         ],
     ],
     sitemap: {
-        hostname: 'https://easycutnesting.vercel.app/',
+        hostname: 'https://www.easycutnesting.it/',
     },
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config

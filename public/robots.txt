@@ -8,4 +8,4 @@ Disallow: /cookie-policy
 Allow: /guida/introduzione/cose-easycut
 Allow: /guida/introduzione/per-iniziare
 
-sitemap: https://easycutnesting.vercel.app/sitemap.xml
+sitemap: https://www.easycutnesting.it/sitemap.xml
