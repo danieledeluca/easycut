@@ -1,4 +1,41 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/Video/ManualLoading.pdf",
+      "destination": "/guida/introduzione/per-iniziare#caricamento-manuale",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/2019/10/EASYcut-guide.pdf",
+      "destination": "/guida/introduzione/cose-easycut",
+      "permanent": true
+    },
+    {
+      "source": "/guida/Benvenuti",
+      "destination": "/guida/introduzione/cose-easycut",
+      "permanent": true
+    },
+    {
+      "source": "/download/easycut/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guida/Presentazione%20NestingBar.pdf",
+      "destination": "/guida/menu-generale/taglio",
+      "permanent": true
+    },
+    {
+      "source": "wp-content/uploads/2020/06/EasyCutNesting-200609.pdf",
+      "destination": "/guida/introduzione/cose-easycut",
+      "permanent": true
+    },
+    {
+      "source": "/guida/introduzione.html",
+      "destination": "/guida/introduzione/cose-easycut",
+      "permanent": true
+    }
+  ]
 }
