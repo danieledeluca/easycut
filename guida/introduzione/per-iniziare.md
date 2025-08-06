@@ -36,3 +36,24 @@ Assicurati di rispettare i [requisiti di sistema](/guida/introduzione/requisiti-
 
   useStructuredData('HowTo');
 </script>
+
+### Caricamento manuale
+
+Questa procedura è necessaria qualora l'utente non disponga di privilegi amministratore o non riesca a modificare il file **AcadDoc.lsp**.
+
+::: warning N.B.
+Questa procedura va eseguita una sola volta.
+:::
+
+1. Avviare AutoCAD
+2. Aprire il menu **Manage > Load Application** (oppure da riga di comando digitare `_appload`)
+3. Selezionare il file **C:\Program Files (x86)\EasyCut\Load\ManualLoadEasyCut.lsp**
+4. Caricare il file cliccando sul pulsante "Load"
+5. Cliccare sul pulsante "Contents..." in **Startup Suite**
+6. Cliccare su "Add"
+7. Selezionare il file **C:\Program Files (x86)\EasyCut\Load\ManualLoadEasyCut.lsp**
+8. Eseguire il comando:
+
+   ```nginx
+   LOADEC
+   ```
