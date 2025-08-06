@@ -20,7 +20,7 @@ I cookie sono piccoli file di testo utilizzati per memorizzare brevi informazion
 
 Come la maggior parte dei servizi online, il nostro sito utilizza cookie di prima parte e di terze parti per vari scopi. I cookie di prima parte sono per lo più essenziali per il corretto funzionamento del sito e non raccolgono dati personali identificabili.
 
-I cookie di terze parti servono principalmente per capire come il sito viene utilizzato, come interagisci con esso, per mantenere i nostri servizi sicuri, per mostrarti pubblicità rilevanti e, in generale, per offrirti un’esperienza utente migliore e più veloce nelle interazioni future con il nostro sito.
+I cookie di terze parti servono principalmente per capire come il sito viene utilizzato, come interagisci con esso, per mantenere i nostri servizi sicuri, per mostrarti pubblicità rilevanti e, in generale, per offrirti un'esperienza utente migliore e più veloce nelle interazioni future con il nostro sito.
 
 ## Tipi di cookie che utilizziamo
 
