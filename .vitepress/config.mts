@@ -1,4 +1,5 @@
 import { DefaultTheme, defineConfig, HeadConfig } from 'vitepress';
+import lightbox from 'vitepress-plugin-lightbox';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -79,6 +80,11 @@ export default defineConfig({
             ['meta', { property: 'og:title', content: title }],
             ['meta', { property: 'twitter:title', content: title }],
         );
+    },
+    markdown: {
+        config: (md) => {
+            md.use(lightbox);
+        },
     },
 });
 

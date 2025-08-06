@@ -60,3 +60,10 @@
 .cky-cookie-audit-table tr:nth-child(2n) td {
     background: transparent !important;
 }
+
+/* Medium Zoom */
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+    z-index: 999;
+}
