@@ -8,7 +8,7 @@ next: false
 
 La presente Privacy Policy descrive le politiche di:
 
-**Andrea De Luca**,<br />
+**EasyCut**,<br />
 Pordenone, Italia,<br />
 info@easycutnesting.it,
 
@@ -52,7 +52,7 @@ Tuttavia, a causa dei rischi intrinseci di Internet, non possiamo garantire la s
 
 Per qualsiasi domanda o dubbio riguardante il trattamento dei tuoi dati personali, puoi contattare il nostro Responsabile alla protezione dei dati:
 
-**Andrea De Luca**,<br />
+**EasyCut**,<br />
 Pordenone, Italia,<br />
 info@easycutnesting.it
 
