@@ -28,13 +28,18 @@
       "permanent": true
     },
     {
-      "source": "wp-content/uploads/2020/06/EasyCutNesting-200609.pdf",
+      "source": "/wp-content/uploads/2020/06/EasyCutNesting-200609.pdf",
       "destination": "/guida/introduzione/cose-easycut",
       "permanent": true
     },
     {
-      "source": "/guida/introduzione.html",
+      "source": "/guida/Introduzione.html",
       "destination": "/guida/introduzione/cose-easycut",
+      "permanent": true
+    },
+    {
+      "source": "/guida/SetupSequenzaeSimulazione",
+      "destination": "/guida/menu-generale/setup/menu-setup/setup-sequenza-e-simulazione",
       "permanent": true
     }
   ]
