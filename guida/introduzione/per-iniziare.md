@@ -30,3 +30,9 @@ Assicurati di rispettare i [requisiti di sistema](/guida/introduzione/requisiti-
    Questo aprirà l'interfaccia principale del software
 
 4. A questo punto si aprirà il menu principale che include tutte le funzioni: ricerca pezzi, gestione lamiere, attacchi, taglio e altro.
+
+<script setup lang="ts">
+  import { useStructuredData } from '../../.vitepress/theme/composables/useStructuredData.ts';
+
+  useStructuredData('HowTo');
+</script>

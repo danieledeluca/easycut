@@ -39,6 +39,9 @@ features:
 
 <script setup lang="ts">
   import ChangelogSummary from '.vitepress/theme/components/ChangelogSummary.vue';
+  import { useStructuredData } from '.vitepress/theme/composables/useStructuredData.ts';
+
+  useStructuredData('SoftwareApplication');
 </script>
 
 <ChangelogSummary />

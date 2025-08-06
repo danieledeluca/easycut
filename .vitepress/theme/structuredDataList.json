@@ -1,0 +1,71 @@
+{
+  "SoftwareApplication": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "EasyCut",
+    "operatingSystem": "Windows",
+    "applicationCategory": "CADApplication",
+    "description": "Software gratuito per l'ottimizzazione del taglio lamiere, basato su AutoCAD. Facile da usare, preciso ed efficiente.",
+    "softwareVersion": "3.3.3",
+    "datePublished": "2022-12-29",
+    "screenShot": "https://www.easycutnesting.it/easycut-og.jpg",
+    "downloadUrl": "https://www.easycutnesting.it/",
+    "license": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "EasyCut",
+      "url": "https://www.easycutnesting.it"
+    }
+  },
+  "HowTo": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Come installare e caricare EasyCut in AutoCAD",
+    "description": "Guida passo-passo per installare EasyCut e configurarlo su AutoCAD.",
+    "url": "https://www.easycutnesting.it/guida/introduzione/per-iniziare",
+    "totalTime": "PT5M",
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "AutoCAD"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Scarica EasyCut",
+        "text": "Scarica il file ZIP dal sito easycutnesting.it tramite il pulsante 'Download gratuito'."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Estrai il file",
+        "text": "Estrai l’archivio ZIP in una cartella sul tuo computer."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Installa EasyCut",
+        "text": "Fai doppio clic su EasyCutDownload [versione].exe per avviare l’installazione. Al termine comparirà un messaggio di conferma della corretta installazione in AutoCAD."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Avvia AutoCAD",
+        "text": "Apri AutoCAD. Assicurati che la versione sia tra quelle compatibili con EasyCut."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Carica il programma",
+        "text": "Digita LOADEC nella riga di comando per caricare i file .lsp e avviare il programma."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Avvia EasyCut",
+        "text": "Digita il comando EC per aprire l’interfaccia principale del software."
+      }
+    ]
+  }
+}
