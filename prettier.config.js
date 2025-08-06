@@ -3,16 +3,17 @@ export default {
     printWidth: 120,
     tabWidth: 4,
     singleQuote: true,
+    quoteProps: 'consistent',
     overrides: [
         {
-            files: ["*.json", "*.md"],
+            files: ['*.json', '*.md'],
             options: {
                 printWidth: 80,
                 singleQuote: false,
                 tabWidth: 2,
-                trailingComma: "none",
+                trailingComma: 'none',
             },
         },
     ],
-    plugins: ["prettier-plugin-packagejson"],
+    plugins: ['prettier-plugin-packagejson'],
 };
