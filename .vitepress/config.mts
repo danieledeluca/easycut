@@ -90,7 +90,6 @@ export default defineConfig({
 
 function nav(): DefaultTheme.NavItem[] {
     return [
-        { text: 'Home', link: '/' },
         { text: 'Guida', link: '/guida/introduzione/cose-easycut', activeMatch: '/guida/' },
         { text: 'Changelog', link: '/changelog' },
     ];
