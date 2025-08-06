@@ -3,7 +3,8 @@ import { DefaultTheme, defineConfig, HeadConfig } from 'vitepress';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: 'EasyCut',
-    description: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
+    description:
+        "Software gratuito per l'ottimizzazione del taglio lamiere, basato su AutoCAD. Facile da usare, preciso ed efficiente.",
     cleanUrls: true,
     metaChunk: true,
     head: [
@@ -16,7 +17,8 @@ export default defineConfig({
             'meta',
             {
                 property: 'og:description',
-                content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
+                content:
+                    "Software gratuito per l'ottimizzazione del taglio lamiere, basato su AutoCAD. Facile da usare, preciso ed efficiente.",
             },
         ],
         ['meta', { property: 'og:image', content: 'https://www.easycutnesting.it/easycut-og.jpg' }],
@@ -28,7 +30,8 @@ export default defineConfig({
             'meta',
             {
                 property: 'twitter:description',
-                content: "Software gratuito per l'ottimizzazione del taglio lamiere e barre.",
+                content:
+                    "Software gratuito per l'ottimizzazione del taglio lamiere, basato su AutoCAD. Facile da usare, preciso ed efficiente.",
             },
         ],
         ['meta', { property: 'twitter:image', content: 'https://www.easycutnesting.it/easycut-og.jpg' }],
