@@ -33,7 +33,7 @@
       "permanent": true
     },
     {
-      "source": "/guida/Introduzione.html",
+      "source": "/guida/Introduzione",
       "destination": "/guida/introduzione/cose-easycut",
       "permanent": true
     },
